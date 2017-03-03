@@ -14,13 +14,15 @@ namespace Employee_PresentationLayer
     {
         static void Main(string[] args)
         {
+            /*
             EmpBusiness EmpBus = new EmpBusiness();
             EmpBus.readEmpCSV();
-            EmployeeServiceReference.EmployeeWebService obj = new EmployeeServiceReference.EmployeeWebService();
+            **/
+            EmployeeWebService.EmployeeWebService obj = new EmployeeWebService.EmployeeWebService();
             var employees = obj.GetEmployee();
-            foreach (var emp in employees)
-            {
-                Console.WriteLine("FirstName:" + emp);
+            foreach(var emp in employees){
+                Console.WriteLine("FirstName:" + emp.FirstName);
+                Console.WriteLine("LastName:" + emp.LastName);
             }
         }
     }
