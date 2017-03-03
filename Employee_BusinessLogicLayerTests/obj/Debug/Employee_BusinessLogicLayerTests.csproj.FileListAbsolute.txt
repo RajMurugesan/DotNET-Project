@@ -1,0 +1,9 @@
+C:\Users\nithyanraj\Documents\Visual Studio 2013\Projects\Employee_PresentationLayer\Employee_BusinessLogicLayerTests\bin\Debug\Employee_BusinessLogicLayerTests.dll
+C:\Users\nithyanraj\Documents\Visual Studio 2013\Projects\Employee_PresentationLayer\Employee_BusinessLogicLayerTests\bin\Debug\Employee_BusinessLogicLayerTests.pdb
+C:\Users\nithyanraj\Documents\Visual Studio 2013\Projects\Employee_PresentationLayer\Employee_BusinessLogicLayerTests\bin\Debug\Employee_BusinessLogicLayer.dll
+C:\Users\nithyanraj\Documents\Visual Studio 2013\Projects\Employee_PresentationLayer\Employee_BusinessLogicLayerTests\bin\Debug\Employee_DatabaseLayer.dll
+C:\Users\nithyanraj\Documents\Visual Studio 2013\Projects\Employee_PresentationLayer\Employee_BusinessLogicLayerTests\bin\Debug\Employee_BusinessLogicLayer.pdb
+C:\Users\nithyanraj\Documents\Visual Studio 2013\Projects\Employee_PresentationLayer\Employee_BusinessLogicLayerTests\bin\Debug\Employee_DatabaseLayer.pdb
+C:\Users\nithyanraj\Documents\Visual Studio 2013\Projects\Employee_PresentationLayer\Employee_BusinessLogicLayerTests\obj\Debug\Employee_BusinessLogicLayerTests.csprojResolveAssemblyReference.cache
+C:\Users\nithyanraj\Documents\Visual Studio 2013\Projects\Employee_PresentationLayer\Employee_BusinessLogicLayerTests\obj\Debug\Employee_BusinessLogicLayerTests.dll
+C:\Users\nithyanraj\Documents\Visual Studio 2013\Projects\Employee_PresentationLayer\Employee_BusinessLogicLayerTests\obj\Debug\Employee_BusinessLogicLayerTests.pdb

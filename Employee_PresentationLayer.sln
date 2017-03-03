@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee_PresentationLayer", "Employee_PresentationLayer\Employee_PresentationLayer.csproj", "{1DC3B861-460B-4D68-B5CC-5EF9EA7009F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee_BusinessLogicLayer", "Employee_BusinessLogicLayer\Employee_BusinessLogicLayer.csproj", "{4D173EFB-CE00-43AB-8F23-AA44F47A1ABA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee_DatabaseLayer", "Employee_DatabaseLayer\Employee_DatabaseLayer.csproj", "{F2435749-A33C-41EB-B433-50EBEA288237}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EmployeeCSV", "EmployeeCSV", "{53ED1532-B0A7-4BA9-AC76-2D1BBCC96B7F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Desktop\EmployeeDetails.csv = ..\..\Desktop\EmployeeDetails.csv
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeWebService", "EmployeeWebService\EmployeeWebService.csproj", "{4A8B47FE-60A6-419C-9EF9-4D5E0C753E22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee_WebServiceTests", "Employee_BusinessLogicLayerTests\Employee_WebServiceTests.csproj", "{1821FD4A-92CC-40EF-A1C6-E4628A8FA931}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DC3B861-460B-4D68-B5CC-5EF9EA7009F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC3B861-460B-4D68-B5CC-5EF9EA7009F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC3B861-460B-4D68-B5CC-5EF9EA7009F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC3B861-460B-4D68-B5CC-5EF9EA7009F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D173EFB-CE00-43AB-8F23-AA44F47A1ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D173EFB-CE00-43AB-8F23-AA44F47A1ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D173EFB-CE00-43AB-8F23-AA44F47A1ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D173EFB-CE00-43AB-8F23-AA44F47A1ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2435749-A33C-41EB-B433-50EBEA288237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2435749-A33C-41EB-B433-50EBEA288237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2435749-A33C-41EB-B433-50EBEA288237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2435749-A33C-41EB-B433-50EBEA288237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A8B47FE-60A6-419C-9EF9-4D5E0C753E22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A8B47FE-60A6-419C-9EF9-4D5E0C753E22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A8B47FE-60A6-419C-9EF9-4D5E0C753E22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A8B47FE-60A6-419C-9EF9-4D5E0C753E22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1821FD4A-92CC-40EF-A1C6-E4628A8FA931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1821FD4A-92CC-40EF-A1C6-E4628A8FA931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1821FD4A-92CC-40EF-A1C6-E4628A8FA931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1821FD4A-92CC-40EF-A1C6-E4628A8FA931}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
